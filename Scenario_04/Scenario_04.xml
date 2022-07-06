@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRIPS>
+	<LONGTRIP>
+		<TRIP>Mexico</TRIP>
+		<TRIP>Nepal</TRIP>
+		<TRIP>Mongolia</TRIP>
+		<TRIP>Indonesia</TRIP>
+		<TRIP>Japan</TRIP>
+		<TRIP>North Korea</TRIP>
+	</LONGTRIP>
+	<SHORTTRIP>
+		<TRIP>Ukraine</TRIP>
+		<TRIP>Bahrian</TRIP>
+		<TRIP>New Zealand</TRIP>
+		<TRIP>Turkey</TRIP>
+	</SHORTTRIP>
+</TRIPS>
